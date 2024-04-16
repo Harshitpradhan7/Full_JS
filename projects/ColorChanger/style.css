@@ -1,0 +1,31 @@
+.dark-th{
+    background-color:#212121;
+    color: #fff;
+}
+
+.canvas{
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    padding: 15px;
+}
+.button {
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    display: inline-block;
+    /* margin: 5px; */
+}
+
+#grey{
+    background: grey;
+}
+#white{
+    background: white;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
